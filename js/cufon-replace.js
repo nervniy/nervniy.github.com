@@ -1,3 +1,3 @@
-Cufon.replace('#menu a, h5, .footer_logo', { fontFamily: 'EB Garamond', hover:true });
-Cufon.replace('h2', { fontFamily: 'CabinSketch', hover:true });
-Cufon.replace('h4', { fontFamily: 'CabinSketch', hover:true, textShadow:'#000 0 0' });
+Cufon.replace('h3, .list-2 .item', { fontFamily: 'NewsGoth', hover:true });
+Cufon.replace('.menu li a, h1 strong, .pagination strong, .banner strong', { fontFamily: 'NewsGoth bold', hover:true });
+Cufon.replace('h2', { fontFamily: 'Vegur', hover:true });
